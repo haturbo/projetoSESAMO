@@ -1,0 +1,7 @@
+{
+  "name": "zesamo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
